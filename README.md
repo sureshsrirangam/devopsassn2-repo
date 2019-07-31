@@ -11,7 +11,6 @@ This is a test to commit the changes
 
 
 =======
-test modified !!!
-  
+   
 >>>>>>> branch 'master' of https://github.com/sureshsrirangam/devopsassn2-repo
 
