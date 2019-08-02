@@ -6,7 +6,6 @@ this file, you have successfully completed a git pull
 operation.
 
 
-PUSH Operation from my repository !!!!
-
+PUSH README.MD Test !!!!!!!!!!!!
 
 
