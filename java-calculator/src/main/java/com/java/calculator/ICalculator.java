@@ -3,7 +3,7 @@ package com.java.calculator;
 public interface ICalculator {
 	int sum(int a, int b);
 
-	int subtraction(int a, int b);
+//	int subtraction(int a, int b);
 
 	int multiplication(int a, int b);
 
